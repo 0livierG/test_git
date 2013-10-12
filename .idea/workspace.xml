@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07e952f-e54f-41ea-8578-e3a97b136312" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_v1.php" afterPath="$PROJECT_DIR$/test_v1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_git.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381580231026" ignored="false" />
-    <file path="/Dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381583921038" ignored="false" />
+    <file path="/dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381584361954" ignored="false" />
+    <file path="/Dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381584063068" ignored="false" />
     <file path="/test_v1.php" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381583083931" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +28,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_v1.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_v1.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_v1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="0.2542056">
+            <state line="8" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.230769">
               <folding>
                 <element signature="e#6#166#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Custom_git.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.WebIde60/config/commandlinetools/Custom_git.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,6 +58,15 @@
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
       <command text="git " />
+      <command text="git" />
+      <command text="git status" />
+      <command text="git commit &quot;test&quot;" />
+      <command text="git init" />
+      <command text="git add test_v1.php" />
+      <command text="git commit -m &quot;first test&quot;" />
+      <command text="git status" />
+      <command text="git remote add origin https://github.com/0livierG/test_git.git" />
+      <command text="git push -u origin master" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -59,6 +76,9 @@
     <option name="myDateState">
       <MyDateState />
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -132,7 +152,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="57" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -258,12 +278,16 @@
       <created>1381583926698</created>
       <updated>1381583926698</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v1.4&#10;">
+      <created>1381584068126</created>
+      <updated>1381584068126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -275,9 +299,10 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -286,7 +311,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -331,7 +355,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.3&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -349,6 +373,7 @@
     <MESSAGE value="v1.1&#10;" />
     <MESSAGE value="v1.2&#10;" />
     <MESSAGE value="v1.3&#10;" />
+    <MESSAGE value="v1.4&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -374,10 +399,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_v1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="0.2542056">
+        <state line="8" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="-5.230769">
           <folding>
             <element signature="e#6#166#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebIde60/config/commandlinetools/Custom_git.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
