@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07e952f-e54f-41ea-8578-e3a97b136312" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test_git.iml" afterPath="$PROJECT_DIR$/.idea/test_git.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_v1.php" afterPath="$PROJECT_DIR$/test_v1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_git.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381584671101" ignored="false" />
-    <file path="/Dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381584654770" ignored="false" />
+    <file path="/dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381585039513" ignored="false" />
+    <file path="/Dummy.txt" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381584722549" ignored="false" />
     <file path="/test_v1.php" changelist="b07e952f-e54f-41ea-8578-e3a97b136312" time="1381583083931" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="git " />
       <command text="git" />
       <command text="git status" />
       <command text="git commit &quot;test&quot;" />
@@ -61,6 +58,21 @@
       <command text="git remote add origin https://github.com/0livierG/test_git.git" />
       <command text="git push -u origin master" />
       <command text="git status" />
+      <command text="git statu" />
+      <command text="git statu" />
+      <command text="git status" />
+      <command text="git add " />
+      <command text="git add 'index.php&quot;" />
+      <command text="git add 'index.php'" />
+      <command text="git add &quot;index.php&quot;" />
+      <command text="git add &quot;test_v1.php&quot;" />
+      <command text="git qtatus" />
+      <command text="git status" />
+      <command text="git commit -1" />
+      <command text="git commit -a" />
+      <command text="git citool" />
+      <command text="git citool" />
+      <command text="git citool" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -280,12 +292,16 @@
       <created>1381584658114</created>
       <updated>1381584658114</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="v1.5&#10;&#10;">
+      <created>1381584724297</created>
+      <updated>1381584724297</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -300,7 +316,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -353,7 +369,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.5&#10;&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -372,6 +388,7 @@
     <MESSAGE value="v1.2&#10;" />
     <MESSAGE value="v1.3&#10;" />
     <MESSAGE value="v1.4&#10;" />
+    <MESSAGE value="v1.5&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
